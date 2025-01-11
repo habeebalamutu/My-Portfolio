@@ -145,6 +145,10 @@ h1 {
     margin: 0 10px; 
     word-wrap: break-word; 
   }
+  textarea {
+    width: 32%;
+    font-size: 14px;
+  }
 }
 
 button {
