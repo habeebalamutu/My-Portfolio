@@ -145,8 +145,8 @@ h1 {
     margin: 0 10px; 
     word-wrap: break-word; 
   }
-  textarea {
-    width: 32%;
+    textarea {
+    width: 90%;
     font-size: 14px;
   }
 }
